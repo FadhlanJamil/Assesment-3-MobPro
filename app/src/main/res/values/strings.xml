@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Galeri Gundam</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal Memuat Data.. Koneksi error.</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="profil">Profile</string>
+    <string name="tutup">Tutup</string>
+    <string name="log_out">Log Out</string>
+    <string name="nama_gundam">Nama Gundam</string>
+    <string name="grade">Grade</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_gundam">Tambah Gundam</string>
+    <string name="hapus">Hapus</string>
+    <string name="pesan_hapus">Apakah Anda Ingin Menghapus Foto ini?</string>
+</resources>
